@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #444;
+	margin: 0 20px;
+}
+
+body H1 {
+	text-align: center;
+	color: aliceblue;
+}
+
+.marginDiv{
+	margin: 20px auto 0 auto;
+	max-width: 700px;
+}
