@@ -166,7 +166,7 @@ function convertString(input, res) {
 
             // convert to string
             outputString = canvas.toDataURL("image/webp");
-            outputString = outputString.replace("data:image/webp;base64,", "");
+            outputString = outputString.substring(text.indexOf(";base64")+8);
             resolve(outputString);
         }
         img.onerror = function() {
