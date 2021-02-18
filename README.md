@@ -3,7 +3,7 @@
 ## What is it?
 It is a tool to create Whatsapp sticker packs by making JSON files for WSTicK.
 
-WSTicK for Android: https://play.google.com/store/apps/details?id=com.wstick.hk
+WSTicK for Android: https://play.google.com/store/apps/details?id=com.wstick.hk<br/>
 WSTicK for iOS: https://apps.apple.com/hk/app/wstick/id1442273161
 
 ## How to use?
